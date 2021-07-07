@@ -1,3 +1,7 @@
+Also called the red city, Marrakech is the fourth largest city in the Kingdom after Casablanca, Fez, and Tangier with more than one million inhabitants, it remains the tourist capital of the country with its countless markets, gardens, museums, palaces, and mosques. For the tourists, finding the optimal location taking into consideration the preferred type of dish and distance is a challenge. This gives an incentive to build a tool of recommendation for the best restaurant venues based on their taste.
+
+My goal is to provide foreign tourists visiting Marrakech with simple recommendations as to where to eat local dishes and where to get Mediterranean food or fast food?
+
 To carry out this project, I will need two data sets. First, I will use Foursquare API to retrieve location data about the restaurants in the city of Marrakech. For each restaurant, information retrieved includes the restaurant name, ID, location and category of food. As an illustration, here is a list of restaurants for romantic dinner in Marrakech: https://fr.foursquare.com/explore?mode=url&ne=31.695164%2C-7.906551&q=D%C3%AEner%20en%20amoureux&sw=31.547819 % 2C-8.106365
 
 Second, I will use the geo-coordinates of the borough of Marrakech with the help of both the geocoder tool, that serve to find the geo-coordinate of a location, and the list of borough from Wikipedia: https: //fr.wikipedia .org / wiki / Cat% C3% A9gorie: Arrondissement_de_Marrakech
